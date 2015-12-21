@@ -1,0 +1,48 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<title>
+			Логопед Ваня Костадинова
+		</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="Style.css">		  
+	</head>
+	<body>
+		<div>
+		    <header>
+				<strong>Логопед Ваня Костадинова</strong>				
+				<img src="Images/Header.png" alt="Логопед" title="Логопед Ваня Костадинова">	
+				<img src="Images/logo.png" alt="logo" title="Лого" id="logo">
+		    </header>
+			<nav>
+					<ul>
+						<li>
+							<a href="#">Начало</a>
+						</li>
+						<li>
+							<a href="AboutAs.html">За нас</a>
+						</li>
+						<li>
+							<a href="Cabinet.html">Кабинет</a>
+						</li>
+						<li>
+							<a href="Address.html">Адрес</a>
+						</li>						
+					</ul>
+		</div>
+		<div>
+			<aside>
+				<img src="Images/logo.jpg" alt="Ваня Костадинова" title="Ваня Костадинова">
+			</aside>
+		</div>
+		<div>
+			<section>
+			</section>
+		</div>
+		<div>
+			<footer>
+				<p>Design by Vaniko-KV LTD &copy;</p>
+	        </footer>
+		</div>		
+	</body>	
+</html>
